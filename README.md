@@ -34,4 +34,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=E040FB&center=true&vCenter=true&width=450&lines=Software+Engineer;JavaScript+%7C+React+%7C+Node.js;Always+learning+and+building" alt="Typing animation" />
 </p>
-<p align="center"><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
+<p align="center"><i>"I don't just write code, I craft experiences."</i></p>
